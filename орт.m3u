@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:43200,#EXTVLCOPT:network-caching=1000
+https://cdn10.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
